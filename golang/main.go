@@ -6,5 +6,5 @@ import (
 )
 
 func main(){
-	fmt.Println(problem.NextPrime(19))
+	fmt.Println(problem.SortNumbers([]int{5, 1, 8, 7, 2, 10}))
 }
