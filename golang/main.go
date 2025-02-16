@@ -6,5 +6,5 @@ import (
 )
 
 func main(){
-	fmt.Println(problem.SortNumbers([]int{5, 1, 8, 7, 2, 10}))
+	fmt.Println(problem.ContainAllRots("Ajylvpy", []string{ "Ajylvpy", "ylvpyAj", "jylvpyA", "lvpyAjy", "pyAjylv", "vpyAjyl", "ipywee"}))
 }
