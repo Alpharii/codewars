@@ -6,5 +6,5 @@ import (
 )
 
 func main(){
-	fmt.Println(problem.ContainAllRots("Ajylvpy", []string{ "Ajylvpy", "ylvpyAj", "jylvpyA", "lvpyAjy", "pyAjylv", "vpyAjyl", "ipywee"}))
+	fmt.Println(problem.ToCamelCase("The_Stealth_Warrior"))
 }
