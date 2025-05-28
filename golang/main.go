@@ -6,5 +6,5 @@ import (
 )
 
 func main(){
-	fmt.Println(problem.ToCamelCase("The_Stealth_Warrior"))
+	fmt.Println(problem.AreAlmostEqual("bank", "kanb"))
 }
