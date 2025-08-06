@@ -6,5 +6,5 @@ import (
 )
 
 func main(){
-	fmt.Println(problem.RemoveChar("abcdef"))
+	fmt.Println(problem.GetSize(4,2,6))
 }
