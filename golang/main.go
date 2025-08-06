@@ -6,5 +6,5 @@ import (
 )
 
 func main(){
-	fmt.Println(problem.AreAlmostEqual("bank", "kanb"))
+	fmt.Println(problem.RemoveChar("abcdef"))
 }
