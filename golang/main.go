@@ -6,5 +6,5 @@ import (
 )
 
 func main(){
-	fmt.Println(problem.GetSize(4,2,6))
+	fmt.Println(problem.BlowCandles("0323456"))
 }
