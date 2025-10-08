@@ -22,10 +22,7 @@
 
 package problem
 
-import "fmt"
-
 func WhoIsServing(currentRound int) int {
-	fmt.Println( "&", currentRound)
 	if currentRound % 4 == 3 || currentRound % 4 == 0{
 		return  2
 	} else {
