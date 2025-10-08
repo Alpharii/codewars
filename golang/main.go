@@ -6,5 +6,16 @@ import (
 )
 
 func main(){
-	fmt.Println(problem.MergeArrays([]int{1, 2, 3}, []int{1,4,5,6}))
+	fmt.Println(problem.WhoIsServing(1))
+	fmt.Println(problem.WhoIsServing(2))
+	fmt.Println(problem.WhoIsServing(3))
+	fmt.Println(problem.WhoIsServing(4))
+	fmt.Println(problem.WhoIsServing(5))
+	fmt.Println(problem.WhoIsServing(6))
+	fmt.Println(problem.WhoIsServing(7))
+	fmt.Println(problem.WhoIsServing(8))
+	fmt.Println(problem.WhoIsServing(9))
+	fmt.Println(problem.WhoIsServing(10))
+	fmt.Println(problem.WhoIsServing(11))
+	fmt.Println(problem.WhoIsServing(12))
 }
